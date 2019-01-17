@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MorseIt</string>
+    <string name="translate">Translate</string>
+    <string name="output"> Morse code appears here</string>
+    <string name="input_hint">Enter your text to be translated here</string>
+    <string name="copy">COPY</string>
+</resources>
